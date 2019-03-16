@@ -72,3 +72,9 @@ body{
 .arrow:active{
     background-color: #7f8c8d
 }
+
+.second-header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    font-size: 20px;
+}
